@@ -8,6 +8,7 @@ outline:
 - Backups are continuous and git history provides byte-level change-tracking.
 - Content producers are assured of the durability and uncensorability of their content because they always have a local copy of the site.
 - Online editing tools have recently improved that make multiple file updates easy to understand and coordinate.
+- Whereas standard websites operate on the broadcast model, something like the old centrally controlled broadcast "networks" that the Web was supposed to move away from, static sites are edited and contained locally in git repos, more along the lines of cryptograhic blockchain distributed apps.
 - Static Site generators are available in most languages and are open source, modifiable, themeable and configurable.
 - Text processing tools and many other code-language tools can be applied to content files.
 ---
