@@ -1,5 +1,7 @@
 ---
+layout: post
 title: Attaching Mobile Networks to Your Cloud Infrastructure
-date: 2021-08-14
+author: Mark Stouffer |> mark.stouffer@verys.com
+published: 2021-08-14
 ---
 
